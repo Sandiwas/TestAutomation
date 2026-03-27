@@ -1,0 +1,5 @@
+*.html
+report/
+screeshot/
+*.log
+*.class
